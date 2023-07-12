@@ -2,15 +2,10 @@
 
 It will show current weather with rest API
 
-## Getting Started
+How to connect to http & intl pakage => pub.dev site got http & intl package & navigate to installing. Copy dependancy and paste it to pubspec.yaml file dependancy. Pub get and Get dependancy. 
 
-This project is a starting point for a Flutter application.
+API link=>(change the location to retrive that weather)
+https://api.openweathermap.org/data/2.5/weather?q=Dhaka&appid=8b5ccf4725ba84043b991cfcc8ed93b9&units=metric
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![weather](https://github.com/FarisHollow/Weather-App/assets/102200908/09b0fd37-5f49-4919-b549-4289694b5edb)
